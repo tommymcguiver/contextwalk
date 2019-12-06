@@ -4,5 +4,7 @@ Ever had issues working out what files are being added to the docker context ? T
 
 ## Install
 
-go get github.com/tommymcguiver/contextwalk
-go install github.com/tommymcguiver/contextwalk/...
+```bash
+bash$ go get github.com/tommymcguiver/contextwalk
+bash$ go install github.com/tommymcguiver/contextwalk/...
+```
